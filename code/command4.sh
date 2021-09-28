@@ -1,0 +1,1 @@
+rosrun gazebo_ros gazebo --verbose /home/sashankmns/ardupilot_gazebo/gazebo_worlds/two_bot.world 
