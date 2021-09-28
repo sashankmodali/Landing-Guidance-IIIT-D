@@ -1,0 +1,9 @@
+int32 detected
+int32 detected2
+int32 tracking
+int32 apriltag
+float32 time
+float32 radius
+float32 radius2
+geometry_msgs/Point32 center
+geometry_msgs/Point32 center2
